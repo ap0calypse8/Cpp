@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "*.embeddedhtml": "html",
+        "*.cpp": "cpp",
         "*.tcc": "cpp",
         "cctype": "cpp",
         "clocale": "cpp",
@@ -44,6 +45,7 @@
         "type_traits": "cpp",
         "utility": "cpp",
         "initializer_list": "cpp",
-        "cinttypes": "cpp"
+        "cinttypes": "cpp",
+        "thread": "cpp"
     }
 }
